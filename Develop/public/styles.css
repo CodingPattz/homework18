@@ -1,11 +1,14 @@
 body {
-  font-size: 120%;
-  font-family: Arial;
+  padding-top: 25px;
+  background-image: url('icons/wallpaper.jpg');
+  background-size: cover;
 }
 
 button, input {
-  font-size: 100%;
-  font-family: Arial;
+  font-size: 17px;
+  font-family: roboto-condensed, sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 table {
@@ -13,6 +16,9 @@ table {
 }
 
 td, th {
+  font-family: marydale, sans-serif;
+  font-weight: 700;
+  font-style: normal;
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
@@ -26,15 +32,21 @@ tr:nth-child(even) {
   color: red;
 }
 
+
 .wrapper {
+  padding-left: 25px;
+  padding-right: 25px;
   margin: 0 auto;
-  max-width: 825px;
+  max-width: 1000px;
   text-align: center;
+  background-color: white;
 }
 
 .total {
-  font-size: 150%;
-  text-decoration: underline;
+  font-size: 50px;
+  font-family: zenon, sans-serif;
+  font-weight: 900;
+  font-style: normal;
 }
 
 .form {
@@ -46,6 +58,10 @@ tr:nth-child(even) {
   text-align: left;
   max-height: 300px;
   overflow: auto;
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
+  font-size: 20px;
+  font-family: zenon, sans-serif;
+  font-weight: 900;
+  font-style: normal;
 }
