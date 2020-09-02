@@ -33,9 +33,9 @@ THEN that will be shown on the page, and added to their transaction history when
 
 ## ScreenShots
 
-![Screen1](develop/screen1.png)
-![Screen2](develop/screen2.png)
+![Screen1](screen1.png)
+![Screen2](screen2.png)
 
 ## Video
-![Engine Employee Summary](develop/video.gif)
+![Engine Employee Summary](video.gif)
 
